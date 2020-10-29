@@ -1,7 +1,7 @@
-# hrko `@hrko99`
+# hrko `@hrko`
 
 ## 🗃 Repos
-### [fcitx-skin-material](https://github.com/hrko99/fcitx-skin-material) 
-![star](https://img.shields.io/github/stars/hrko99/fcitx-skin-material?style=social)
+### [fcitx-skin-material](https://github.com/hrko/fcitx-skin-material) 
+![star](https://img.shields.io/github/stars/hrko/fcitx-skin-material?style=social)
 
 A Material Design-like skin for Fcitx.
